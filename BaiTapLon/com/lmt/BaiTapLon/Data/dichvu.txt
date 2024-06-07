@@ -1,0 +1,12 @@
+DvKaraoke
+Karaoke_1
+100000
+2.5
+DvThueCaSi
+Thue Ca Si Phuong Ly
+500000
+Phuong Ly
+8
+DvTrangTri
+Trang tri boi canh
+2000000
